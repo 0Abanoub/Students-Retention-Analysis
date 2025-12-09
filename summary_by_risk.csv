@@ -1,0 +1,5 @@
+risk_category,Student_Count,Retention_Rate,Revenue_Loss
+1-Low Risk,1940,83.2,3912000
+2-Moderate Risk,830,74.1,2580000
+3-High Risk,566,71.4,1944000
+4-Critical Risk,64,68.8,240000
