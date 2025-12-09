@@ -64,6 +64,5 @@ This project uses Python and common data science libraries.
 
 ## ✍️ Author
 
-* **Author Name:** [Your Name/Abanoub]
-* **GitHub:** [Your GitHub Profile Link]
-* **Course:** [Your Course Name, e.g., Data Analysis - Year 3]
+* **Author Name:** [Muhammad Seyam/Abanoub]
+* **Course:** [Data Analysis - Year 3]
