@@ -64,5 +64,5 @@ This project uses Python and common data science libraries.
 
 ## ✍️ Author
 
-* **Author Name:** [Muhammad Seyam/Abanoub]
+* **Author Name:** [Abanoub\Seyam]
 * **Course:** [Data Analysis - Year 3]
